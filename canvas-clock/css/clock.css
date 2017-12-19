@@ -1,0 +1,11 @@
+.content{
+	text-align: center;
+	margin-top: 200px;
+
+}
+#clock{
+	background-image: url(../img/bg.png);
+	background-size: 400px 400px;
+	border-radius: 50%;
+}
+
